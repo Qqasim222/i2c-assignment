@@ -134,7 +134,7 @@ const Form: React.FC = () => {
 
         <button
           type="submit"
-          className="bg-[#F89D21] hover:bg-[#F89D21] text-white font-[700] py-2 px-4 rounded-full w-full h-full lg:w-[200px] lg:h-[51px] ring-[#F89D21] ring-offset-2 shadow-2xl mt-7"
+          className="bg-[#F89D21] hover:bg-[#F89D21] text-white font-[700] py-2 px-4 rounded-full w-full h-full lg:w-[200px] lg:h-[51px] ring-[#F89D21] ring-offset-0 custom-shadow mt-7"
         >
           Submit
         </button>
