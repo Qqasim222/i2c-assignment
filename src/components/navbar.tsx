@@ -40,7 +40,7 @@ const Navbar = () => {
           className={
             !nav
               ? "hidden"
-              : "absolute z-10 top-0 left-0 font-bold w-full h-full bg-zinc-200 flex flex-col items-center justify-center"
+              : "absolute z-10 top-[-20%] left-0 font-bold w-full h-full bg-zinc-200 flex flex-col items-center justify-center"
           }
         >
           <li className="hover:cursor-pointer p-5 border-b-2 border-zinc-300 w-full text-center">
