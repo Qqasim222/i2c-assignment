@@ -16,16 +16,16 @@ const SimpleSlider: React.FC = () => {
   };
 
   return (
-    <div style={{ textAlign: 'center' }}>
+    <div style={{ textAlign: "center" }}>
       <Slider {...settings}>
         <div>
-          <img src={TrustedByImage} style={{ margin: 'auto' }} />
+          <img src={TrustedByImage} style={{ margin: "auto" }} alt="Trusted By Image 1" />
         </div>
         <div>
-          <img src={TrustedByImage} style={{ margin: 'auto' }} />
+          <img src={TrustedByImage} style={{ margin: "auto" }} alt="Trusted By Image 2" />
         </div>
         <div>
-          <img src={TrustedByImage} style={{ margin: 'auto' }} />
+          <img src={TrustedByImage} style={{ margin: "auto" }} alt="Trusted By Image 3" />
         </div>
       </Slider>
       <style>{`

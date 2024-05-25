@@ -39,28 +39,22 @@ const reviewsData = [
 export default reviewsData;
 
 export const AboutUsDetailsData = [
-    {
-        id: 1,
-        title: "24/7 Support",
-        image_url: About_Support,
-        description:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      
-    },
-    {
-        id: 2,
-        title: "1000+ of reviews",
-        image_url: About_Reviews,
-        description:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      
-    },
-    {
-        id: 3,
-        title: "And more!",
-        image_url: About_More,
-        description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      
-    }
-]
+  {
+    id: 1,
+    title: "24/7 Support",
+    image_url: About_Support,
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  },
+  {
+    id: 2,
+    title: "1000+ of reviews",
+    image_url: About_Reviews,
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    id: 3,
+    title: "And more!",
+    image_url: About_More,
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+];

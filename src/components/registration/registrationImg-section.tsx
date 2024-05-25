@@ -1,8 +1,6 @@
-import RegistrationImage from "../../assets/Registration-img.svg"
+import RegistrationImage from "../../assets/Registration-img.svg";
 const RegistrationImg = () => {
-    return(
-        <img src={RegistrationImage} />
-    )
-}
+  return <img src={RegistrationImage} alt="Registration Image" />;
+};
 
-export default RegistrationImg
+export default RegistrationImg;

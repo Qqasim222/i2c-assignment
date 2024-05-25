@@ -10,7 +10,7 @@ const About = () => {
           <AboutContent />
         </div>
         <div className="mt-10 lg:mt-0 relative">
-          <img src={AboutImg} />
+          <img src={AboutImg} alt="About Image" />
           <div className="overlay blur-[70px]  absolute left-[10%] h-52 w-32 inset-0 bg-[#F0B80D] opacity-70 z-0 rounded-xl shadow-md"></div>
         </div>
       </div>
