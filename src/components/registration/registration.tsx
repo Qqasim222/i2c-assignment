@@ -7,12 +7,12 @@ const Registration = () => {
       <div className="lg:h-[631px] h-full">
         <RegistrationImg />
       </div>
-      <form
+      <div
         className="lg:h-[631px] h-full w-full lg:w-[575px] bg-[#FFFFFF] rounded-[10px] mt-10 lg:mt-0 p-6"
-        name="registration"
+        id="registration"
       >
         <RegistrationForm />
-      </form>
+      </div>
     </div>
   );
 };

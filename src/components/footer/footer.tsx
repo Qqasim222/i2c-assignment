@@ -17,7 +17,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="md:text-[11px] mt-8 pb-8">
+      <div className="md:text-[11px] mt-8">
         {"Copyright © 2023 i2c inc. All rights reserved."}
       </div>
     </div>

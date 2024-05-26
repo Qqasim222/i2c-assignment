@@ -12,10 +12,10 @@ const TrustedBy = () => {
           }
         </div>
       </div>
-      <div className="mt-8 w-full lg:w-[1000px] mx-auto">
+      <div className="mt-8 w-full lg:w-[70%] mx-auto">
         <SimpleSlider />
       </div>
-      <div className="overlay blur-[150px] absolute left-[60%] h-80 w-30 md:h-80 md:w-60 inset-0 bg-[#E49192] opacity-70 z-0 rounded-xl shadow-md"></div>
+      <div className="overlay blur-[150px] absolute left-[60%] top-[20%] w-30 md:h-40 md:w-60 inset-0 bg-[#F89D21] opacity-70 z-0 rounded-xl shadow-md"></div>
     </div>
   );
 };
