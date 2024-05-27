@@ -3,7 +3,7 @@ import { AboutUsDetailsData } from "../constants";
 const AboutUsDetail = () => {
   return (
     <div
-      className="w-full relative bg-[#F6FBF8] h-full lg:h-[116px] rounded-xl p-[10px] lg:items-center lg:grid lg:grid-cols-3 ring-[#46B0E6] ring-offset-2 shadow-2xl mt-10 lg:mt-0 lg:mx-6"
+      className="w-full 2xl:m-auto 2xl:mx-6 relative bg-[#F6FBF8] h-full lg:h-[116px] rounded-xl p-[10px] lg:items-center lg:grid lg:grid-cols-3 ring-[#46B0E6] ring-offset-2 shadow-2xl mt-10 lg:mt-0 lg:mx-6"
       id="about"
     >
       <div className="overlay hidden lg:block blur-[90px] absolute top-[-100%]   w-60 inset-0 bg-[#F89D21] opacity-70 z-[-10] rounded-xl shadow-md"></div>

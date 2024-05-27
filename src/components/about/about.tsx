@@ -5,7 +5,7 @@ import AboutUsDetail from "./aboutUs-detail";
 const About = () => {
   return (
     <div>
-      <div className="lg:flex lg:justify-between lg:items-center lg:my-20 lg:mx-6">
+      <div className="lg:flex lg:justify-between 2xl:justify-evenly lg:items-center lg:my-20 lg:mx-6">
         <div>
           <AboutContent />
         </div>

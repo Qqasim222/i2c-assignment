@@ -2,7 +2,7 @@ import I2C_Logo from "../../assets/i2clogo.svg";
 
 const Footer = () => {
   return (
-    <div>
+    <div className="2xl:mx-6">
       <div className="md:flex md:items-center md:justify-between md:mt-6">
         <div className="md:mt-0 mt-1">
           <img src={I2C_Logo} alt="I2C Logo" />

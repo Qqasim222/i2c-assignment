@@ -3,7 +3,7 @@ import RegistrationForm from "./registration-form";
 
 const Registration = () => {
   return (
-    <div className="mt-10 lg:mt-20 lg:flex lg:justify-between lg:mx-6 lg:space-x-10">
+    <div className="mt-10 lg:mt-20 lg:flex 2xl:justify-evenly lg:justify-between lg:mx-6 lg:space-x-10">
       <div className="lg:h-[631px] h-full">
         <RegistrationImg />
       </div>
